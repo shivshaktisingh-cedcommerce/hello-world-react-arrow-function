@@ -1,7 +1,7 @@
 import Add from "./Add.js"
 import './App.css';
 
-function App() {
+const App=()=> {
   return (
     <div className="App">
       <Add/>
